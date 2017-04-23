@@ -7,3 +7,4 @@ Problems:
 - [gitshell is repository with git problems and solutions](https://github.com/pavbox/shellbook/tree/master/gitshell)
 
 Presets:
+- [pentesting setups](https://github.com/pavbox/shellbook/tree/master/pentest)
