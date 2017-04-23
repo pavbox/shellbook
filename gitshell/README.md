@@ -2,11 +2,13 @@
 
 
 Problems:
-- [automatic addition all RSA keys into current console session](https://github.com/pavbox/shellbook/tree/master/gitshell#gitshell)
+- [Automatic addition RSA keys into current console session](https://github.com/pavbox/shellbook/tree/master/gitshell#gitshell)
 
 
 
-# automatic addition RSA keys into current console session
+## Automatic addition RSA keys into current console session
+
+### english translate
 
 Automatic append RSA keys into ssh-agent session.
 
@@ -31,6 +33,7 @@ On Mac or Linux you can create env.sh file and set path to his from .bashrc.
 ```
 
 
+### russian translate
 
 Автоматическое добавление RSA ключей в сессию ssh агента.
 
