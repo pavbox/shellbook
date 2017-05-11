@@ -8,3 +8,7 @@ Problems:
 
 Presets:
 - [pentesting setups](https://github.com/pavbox/shellbook/tree/master/pentest)
+
+
+
+- [ ] add configs for Ansible
