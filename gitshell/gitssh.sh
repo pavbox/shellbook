@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh (dash)
 
 # save current params
 currentPathShell=$(pwd)
