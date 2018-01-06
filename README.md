@@ -2,14 +2,15 @@
 
 Repository contains shell scripts with presets and problem solving.
 
-Problems:
+### Problems
 
-- [gitshell is repository with git problems and solutions](https://github.com/pavbox/shellbook/tree/master/gitshell)
+- [gitshell is repository with git problems and solutions](/gitshell)
 
-Presets:
-- [pentesting setups](https://github.com/pavbox/shellbook/tree/master/pentest)
+### Presets
 
+- [pentesting setups](/pentest)
 
+### Feature
 
-- [ ] add configs for Ansible
-- [ ] docker? or any other deploy environment
+- - [ ] add configs for Ansible
+- - [ ] docker? or any other deploy environment
