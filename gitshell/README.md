@@ -2,7 +2,7 @@
 
 
 Problems:
-- [Automatic addition RSA keys into current console session](https://github.com/pavbox/shellbook/tree/master/gitshell#gitshell)
+- [Automatic addition RSA keys into current console session](/gitshell#gitshell)
 
 
 
