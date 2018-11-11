@@ -10,6 +10,10 @@ Repository contains shell scripts with presets and problem solving.
 
 - [pentesting setups](/pentest)
 
+### Other
+
+- [short support functions](/simple_functions)
+
 ### Feature
 
 - - [ ] add configs for Ansible
