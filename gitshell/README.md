@@ -8,7 +8,7 @@ Problems:
 
 ## Automatic addition RSA keys into current console session
 
-### english translate
+### what is this thing
 
 Automatic append RSA keys into ssh-agent session.
 
@@ -33,7 +33,7 @@ On Mac or Linux you can create env.sh file and set path to his from .bashrc.
 ```
 
 
-### russian translate
+### краткое описание
 
 Автоматическое добавление RSA ключей в сессию ssh агента.
 
