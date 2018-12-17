@@ -19,3 +19,4 @@ Repository contains shell scripts with presets and problem solving.
 - - [ ] add configs for Ansible
 - - [ ] docker? or any other deploy environment
 - - [ ] review readmes and create good structure. maybe infosec blog will store in this repo
+- - [ ] need to update scripts to actual
