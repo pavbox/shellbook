@@ -1,0 +1,6 @@
+
+# Setup SSH config without life time
+
+Host *
+    ServerAliveInterval 20
+    TCPKeepAlive no%  
